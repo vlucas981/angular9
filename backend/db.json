@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Caneta BIC Preta (CX)",
+      "price": "9.99",
+      "id": 1
+    },
+    {
+      "name": "Caneta BIC Azul (CX)",
+      "price": "9.99",
+      "id": 1
+    },
+    {
+      "name": "Caneta BIC Vermelha (CX)",
+      "price": "9.99",
+      "id": 1
+    }
+  ]
+}

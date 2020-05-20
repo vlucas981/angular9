@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px 0px 0px;
+}
+
+span {
+    display: flex;
+    font-size: 1.1rem;
+    font-weight: 450;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
